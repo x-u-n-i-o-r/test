@@ -4,3 +4,6 @@
 [submodule "json"]
 	path = json
 	url = https://github.com/nlohmann/json.git
+[submodule "async-db-qt"]
+	path = async-db-qt
+	url = https://github.com/tkopets/async-db-access-qt.git
